@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1100" role="img" aria-label="Architecture sculpturale abstraite, lumière et ombres">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcd5c9"/><stop offset=".6" stop-color="#b4b0a3"/><stop offset="1" stop-color="#8a877f"/></linearGradient><linearGradient id="wall" x1="0" y1="0" x2="1" y2=".45"><stop stop-color="#efebe3"/><stop offset=".49" stop-color="#bdb8ae"/><stop offset="1" stop-color="#85827b"/></linearGradient><linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c3bdb3"/><stop offset=".64" stop-color="#8c8b83"/><stop offset="1" stop-color="#5f605c"/></linearGradient><linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5c5d59"/><stop offset="1" stop-color="#242725"/></linearGradient><linearGradient id="floor" x1="0" y1="0" x2="1" y2=".6"><stop stop-color="#a8a497"/><stop offset="1" stop-color="#555851"/></linearGradient><radialGradient id="glow"><stop stop-color="#fff4d9" stop-opacity=".78"/><stop offset="1" stop-color="#ffebc5" stop-opacity="0"/></radialGradient><pattern id="grain" width="166" height="133" patternUnits="userSpaceOnUse"><circle cx="8" cy="39" r="1" fill="#232722" opacity=".09"/><circle cx="92" cy="16" r="1.2" fill="#fff" opacity=".12"/><circle cx="151" cy="112" r="1" fill="#232722" opacity=".1"/><circle cx="50" cy="96" r="1" fill="#fff" opacity=".13"/></pattern></defs>
+<rect width="1800" height="1100" fill="url(#sky)"/><ellipse cx="1220" cy="255" rx="700" ry="620" fill="url(#glow)"/>
+<!-- cinematic courtyard / sunlit monumental architecture -->
+<path d="M0 0H485V952L0 1050Z" fill="#6d6f68"/><path d="M0 0H390V911L0 970Z" fill="#a49f94"/><path d="M0 0H210V905L0 965Z" fill="url(#shade)" opacity=".53"/>
+<path d="M432 0H1800V750L446 973Z" fill="url(#wall)"/>
+<path d="M600 0H1170L1344 669L804 761Z" fill="#d4cdc0" opacity=".92"/>
+<path d="M800 0H1005L1156 634L919 664Z" fill="#eee9df" opacity=".46"/>
+<path d="M1070 0H1610L1800 680L1248 718Z" fill="#aaa79d"/>
+<path d="M1368 0H1640L1800 623L1481 657Z" fill="#7f8077" opacity=".8"/>
+<path d="M1800 692L614 828L0 984V1100H1800Z" fill="url(#floor)"/>
+<path d="M0 1026L714 834L1800 744V871L0 1100Z" fill="#5e605b" opacity=".5"/>
+<!-- descending cut-out arches -->
+<path d="M600 420C600 311 698 225 808 225C918 225 1016 311 1016 420V738L600 783Z" fill="url(#shade)"/>
+<path d="M655 433C655 349 724 288 806 288C894 288 952 349 952 431V731L655 760Z" fill="#4e524e"/>
+<path d="M724 448C724 399 759 362 805 362C853 362 887 399 887 448V744L724 765Z" fill="#2d312e"/>
+<path d="M764 464C764 443 784 421 806 421C828 421 848 443 848 464V747L764 760Z" fill="#191d1b"/>
+<path d="M600 784L1016 741L1358 907L976 997Z" fill="#202724" opacity=".5"/>
+<path d="M1030 363C1030 290 1090 231 1166 231C1240 231 1301 290 1301 363V700L1030 735Z" fill="url(#stone)"/>
+<path d="M1066 376C1066 320 1107 277 1165 277C1223 277 1263 320 1263 376V708L1066 728Z" fill="#74766f"/>
+<path d="M1098 384C1098 346 1127 314 1166 314C1204 314 1234 346 1234 384V711L1098 723Z" fill="#303734"/>
+<path d="M0 1095L1800 898V1100H0Z" fill="#73736d"/><path d="M0 1095L1800 897" stroke="#e2dbcc" stroke-width="4" opacity=".35"/>
+<g stroke="#e8e4d9" stroke-width="2" opacity=".24"><path d="M0 1008L1800 825"/><path d="M0 1080L1800 915"/><path d="M254 1100L877 768"/><path d="M864 1100L1145 740"/><path d="M1270 1100L1403 723"/></g>
+<rect width="1800" height="1100" fill="url(#grain)"/><rect width="1800" height="1100" fill="#242826" opacity=".13"/>
+</svg>

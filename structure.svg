@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1200" role="img" aria-label="Escalier architectural minimaliste">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcd6cc"/><stop offset=".7" stop-color="#a6a298"/><stop offset="1" stop-color="#5a5e59"/></linearGradient><linearGradient id="m" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#e8e4d9"/><stop offset=".6" stop-color="#bab6a9"/><stop offset="1" stop-color="#555951"/></linearGradient><linearGradient id="d" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#414741"/><stop offset="1" stop-color="#141916"/></linearGradient><pattern id="p" width="57" height="61" patternUnits="userSpaceOnUse"><circle cx="6" cy="7" r=".8" fill="#171b18" opacity=".15"/><circle cx="42" cy="49" r=".6" fill="#fff" opacity=".4"/></pattern></defs>
+<rect width="1100" height="1200" fill="url(#b)"/>
+<path d="M0 0H1100V850L0 1100Z" fill="url(#m)"/>
+<path d="M0 0H268V1200H0Z" fill="#585e59"/>
+<path d="M167 0H342V1200H167Z" fill="#303832" opacity=".33"/>
+<path d="M1100 0H880V1200H1100Z" fill="#525952" opacity=".7"/>
+<path d="M306 898L1100 612V806L305 1094Z" fill="#282d29"/>
+<path d="M306 898L670 770L1100 612L1100 671L306 950Z" fill="#eae5db"/>
+<path d="M306 978L1100 702V768L306 1041Z" fill="#c6c4b8"/>
+<path d="M306 1057L1100 782V847L306 1114Z" fill="#e9e5dc"/>
+<path d="M306 1133L1100 870V939L306 1200Z" fill="#a7a99f"/>
+<path d="M470 417C470 286 573 182 702 182C832 182 935 286 935 417V795L470 957Z" fill="url(#d)"/>
+<path d="M531 424C531 327 610 246 707 246C804 246 875 327 875 424V787L531 906Z" fill="#323b34"/>
+<path d="M610 440C610 381 650 333 706 333C759 333 800 381 800 440V824L610 885Z" fill="#151b17"/>
+<path d="M0 1200H1100V1125L240 1200Z" fill="#7e8378"/>
+<rect width="1100" height="1200" fill="url(#p)"/><rect width="1100" height="1200" fill="#292820" opacity=".1"/>
+</svg>
